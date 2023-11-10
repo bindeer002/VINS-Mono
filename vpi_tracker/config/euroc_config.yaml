@@ -82,4 +82,4 @@ visualize_camera_size: 0.4      # size of camera marker in RVIZ
 # vpi params
 vpi_backend: "cuda"
 pyr_level: 8
-process_mode: 2 # 1 is VpiOptiflow, 2 is VpiFast, 3 is OpenCV
+process_mode: 1 # 1 is VpiOptiflow, 2 is VpiFast, 3 is OpenCV
